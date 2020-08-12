@@ -48,7 +48,7 @@ form button:hover {
 }
 
 .todo-list {
-  min-width: 30%;
+  min-width: 50%;
   list-style: none;
 }
 
@@ -129,6 +129,7 @@ select {
   pointer-events: none;
   transition: all 0.3s ease;
 }
+
 .select:hover::after {
   background: white;
   color: #53d2a8;
